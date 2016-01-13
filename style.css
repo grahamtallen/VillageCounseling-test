@@ -164,7 +164,7 @@ body {
 
 #group2 > .parallaxLayer-back {
 	background-color: gray;  /* default in case of img not loading */
-	background-image: url('/images/burano.jpg'); /* choose your image here */
+	background-image: url(images/burano.jpg); /* choose your image here */
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -172,7 +172,7 @@ body {
 
 #group4 > .parallaxLayer-back {
 	background-color: gray;  /* default in case of img not loading */
-	background-image: url('/images/railey2.jpg');  /* choose your image here */
+	background-image: url(images/railey2.jpg);  /* choose your image here */
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -180,7 +180,7 @@ body {
 
 #group6 > .parallaxLayer-back {
 	background-color: gray;  /* default in case of img not loading */
-	background-image: url('/images/baku1.jpg');  /* choose your image here */
+	background-image: url(images/baku1.jpg);  /* choose your image here */
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;

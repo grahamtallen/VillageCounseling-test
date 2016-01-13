@@ -1,4 +1,4 @@
-'user strict';
+'use strict';
 
 // this is for you to better understand how the layers work
 // DELETE BEFORE DEPLOYMENT
