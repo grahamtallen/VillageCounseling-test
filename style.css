@@ -163,30 +163,25 @@ body {
 /* ---------------------------- */
 
 #group2 > .parallaxLayer-back {
-	background-color: red;  
-	background-image: url('/images/burano.jpg');
-	background-position: 50% 50%;
+	background-color: gray;  /* default in case of img not loading */
+	background-image: url('/images/burano.jpg'); /* choose your image here */
+	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 
 #group4 > .parallaxLayer-back {
-	background-color: red;  
-	background-image: url('/images/railey2.jpg');
-	background-position: 50% 50%;
+	background-color: gray;  /* default in case of img not loading */
+	background-image: url('/images/railey2.jpg');  /* choose your image here */
+	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 
 #group6 > .parallaxLayer-back {
-	background-color: red;  
-	background-image: url('/images/baku1.jpg');
-	background-position: 50% 50%;
+	background-color: gray;  /* default in case of img not loading */
+	background-image: url('/images/baku1.jpg');  /* choose your image here */
+	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
-
-
-
-
-
