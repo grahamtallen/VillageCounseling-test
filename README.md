@@ -8,4 +8,4 @@ Built using Keith Clark's [tutorial](http://keithclark.co.uk/articles/pure-css-p
 Play around with it to discover how it works.
 
 To calculate the value of scale():  
-    ( (-1 * translateZ)/perspective ) + 1
+    `( (-1 * translateZ)/perspective ) + 1`
