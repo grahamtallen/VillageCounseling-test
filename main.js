@@ -1,6 +1,8 @@
 'user strict';
 
-var debugInput = document.querySelector('input');
+// this is for you to better understand how the layers work
+// DELETE BEFORE DEPLOYMENT
+let debugInput = document.querySelector('input');
 function updateDebugState() {
 	document.body.classList.toggle('debugOn', debugInput.checked);
 }
