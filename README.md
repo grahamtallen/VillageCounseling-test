@@ -5,5 +5,7 @@
 
 Built using Keith Clark's [tutorial](http://keithclark.co.uk/articles/pure-css-parallax-websites/), this boilerplate is built to be responsive, automatically focusing on the center of the background while enabling parallax scrolling.
 
-To calculate the scale:  
-( (-1 * translateZ)/perspective ) + 1
+Play around with it to discover how it works.
+
+To calculate the value of scale():  
+    ( (-1 * translateZ)/perspective ) + 1
