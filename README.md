@@ -1,4 +1,4 @@
-#CSS Only Parallax Boilerplate
+#[CSS Only Parallax Boilerplate](http://virsaviya.github.io/CSS-Only-Parallax-Boilerplate/)
 
 *created by: Virsaviya Efraim*  
 *updated on: January 12, 2016*
