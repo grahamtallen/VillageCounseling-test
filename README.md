@@ -1,4 +1,4 @@
-#[CSS Only Parallax Boilerplate](http://virsaviya.github.io/Pure-CSS-Parallax-Boilerplate/)
+#[Pure CSS Parallax Boilerplate](http://virsaviya.github.io/Pure-CSS-Parallax-Boilerplate/)
 
 Built using Keith Clark's [tutorial](http://keithclark.co.uk/articles/pure-css-parallax-websites/) on parallax scroll and Jacob Gube's [tutorial](http://sixrevisions.com/css/responsive-background-image/) on responsive backgrounds.  
 
